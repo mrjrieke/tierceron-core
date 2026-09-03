@@ -6,7 +6,7 @@ require (
 	github.com/glycerine/bchan v0.0.0-20170210221909-ad30cd867e1c
 	github.com/go-git/go-billy/v5 v5.9.0
 	github.com/orcaman/concurrent-map/v2 v2.0.1
-	github.com/trimble-oss/tierceron-nute-core v1.0.7
+	github.com/trimble-oss/tierceron-nute-core v1.0.8
 	golang.org/x/sys v0.47.0
 	google.golang.org/grpc v1.83.1
 	google.golang.org/protobuf v1.36.11
